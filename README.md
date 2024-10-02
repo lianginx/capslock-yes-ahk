@@ -1,5 +1,7 @@
 # CAPSLOCK YES（Auto Hotkey）
 
+> macOS 版本请查看 [CAPSLOCK YES](https://github.com/lianginx/capslock-yes)
+
 通过 [Auto Hotkey](https://www.autohotkey.com/) 将按下 `CapsLock` 映射为快捷键，搭配字母键组合出一套全新的快捷键；
 
 让你的双手在编辑代码时，不再需要离开字母区就能随心所欲地快速移动光标或选中文字；
