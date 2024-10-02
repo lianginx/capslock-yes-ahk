@@ -25,3 +25,7 @@
 ## 使用
 
 下载 [Auto Hotkey](https://www.autohotkey.com/) 并安装，下载 [配置文件](capslock-yes.ahk) 并打开即可使用。
+
+## 开机自启
+
+按下 `Win` `R` 打开运行窗口，输入 `shell:startup` 点击确认后弹出启动文件夹，最后将下载的配置文件拖入该目录即可。
