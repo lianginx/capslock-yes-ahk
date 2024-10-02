@@ -1,5 +1,7 @@
 ﻿#CommentFlag //
 
+CapsLock::Esc
+
 CapsLock & Space::Enter
 
 CapsLock & q::BS
