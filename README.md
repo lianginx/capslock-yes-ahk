@@ -10,7 +10,7 @@
 
 ![key-bitmap](assets/key-bitmap.jpg)
 
-|     原键位     |   映射键位    |       原键位       |       映射键位        |
+|      热键      |   映射键位    |        热键        |       映射键位        |
 | :------------: | :-----------: | :----------------: | :-------------------: |
 |   `CapsLock`   |     `Esc`     | `CapsLock` `Space` |        `Enter`        |
 | `CapsLock` `E` |      `↑`      |   `CapsLock` `I`   |      `Shift` `↑`      |
